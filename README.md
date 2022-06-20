@@ -56,3 +56,5 @@ Prototype Metodu: Hali hazırda oluşmuş olan spesifik bir sınıfın objelerin
 Singleton Metodu: Belirli bir sınıfın tek bir oluşmuş olan instance'ı olmasını sağlar
  
 # Singleton ve AbstractFactory patterlerini implemente eden kodu yazın.(25 Puan)
+
+# NOT: MainJava.java dosyası ana dosya olarak kullanıldı
