@@ -15,10 +15,10 @@ Vaadin: Java temelli GUI odaklı web uygulama tasarım framework'u. Tıpkı Spri
 
 Katmanlı mimari, projenin birbiriyle fonksiyonel olarak çalışan katmanlarca yapılmasıyla oluşan bir programlama mimari tipidir. Bu katmanlar belirli bir sıraya göre
 sıralandıktan sonra sadece kendilerinin direkt aşağısındaki katmanlarla görüşebilir. Projeden projeye değişen katman yapıları olsa da, genel anlamda kabul edilen 4 ana katman vardır:
-		 1- Presentation Katmanı: Kullanıcı etkileşiminden sorumludur.
-		 2- Application/Business Katmanı: Fonksiyonel yükümlülüklerden sorumludur.
-		 3- Domain Katmanı: Algoritmalardan ve genel proje üyelerinden sorumludur.
-		 4- Infrastructure/Persistence/Database Katmanı: Data ve datayı manipule eden tüm fonksiyon ve databaselerden sorumludur.
+* Presentation Katmanı: Kullanıcı etkileşiminden sorumludur.
+* Application/Business Katmanı: Fonksiyonel yükümlülüklerden sorumludur.
+* Domain Katmanı: Algoritmalardan ve genel proje üyelerinden sorumludur.
+* Infrastructure/Persistence/Database Katmanı: Data ve datayı manipule eden tüm fonksiyon ve databaselerden sorumludur.
 
 # Garbage collector nedir, nasıl çalışır? Diğer C++ ile karşılaştırın. (10 Puan)
 
