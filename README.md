@@ -1,7 +1,6 @@
 # homework-2
 
-# Java dünyasındaki framework’ler ve çözdükleri problemler nedir?(Spring MVC, JSP,
-Struct, Vaadin). Örnekler ile açıklayın. (20 Puan)
+# Java dünyasındaki framework’ler ve çözdükleri problemler nedir?(Spring MVC, JSP, Struct, Vaadin). Örnekler ile açıklayın. (20 Puan)
 
 Spring MVC: Model-View-Controller yapılarıyla interaktif ve dinamik Java web applikasyonları yaratımını sağlar. Bahsedilen bu üç yapı Spring MVC'nin hafif ama güçlü katmanlarını oluşturur.Model üzerinden proje çerçevesinde kullanılcacak değerler sınıflar tarafından atanır. View, web applikasyonunun oluşturacağı sayfalarda model değerlerini gösterebilmek adına kullanılır. Controller model üzerinde değişiklik yapmayı sağlar. Annotations sayesinde fonksiyon ve değerlerin erişebilirliğini artırır. 
 
@@ -42,8 +41,7 @@ Dependency Injection/Inversion of Control Pattern: Hali hazırda kullanılan dep
 
 
 
-# Creational Patterns neler? Önceki ödevde oluşturulan nesnelerinizi factory Design
-patterni ile oluşacak şekilde düzenleyin. (25 Puan)
+# Creational Patterns neler? Önceki ödevde oluşturulan nesnelerinizi factory Design patterni ile oluşacak şekilde düzenleyin. (25 Puan)
 
 Nesnelerin nasıl yaratılacağına dair mimari planlama yöntemleridir. Ana amaç mümkün olabildiği kadar esnek obje yaratımı ve tekrar kullanılabilirliğidir.
 
